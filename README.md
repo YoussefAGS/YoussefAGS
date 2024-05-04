@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Bike Store App**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Advanced flutter topics**
 
 - 📫 How to reach me **youssef91919ahmed@gmail.com**
 
