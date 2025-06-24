@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefags&label=Profile%20views&color=0e75b6&style=flat" alt="youssefags" /> </p>
 
-- 🔭 I’m currently working on **Bike Store App**
-
 - 🌱 I’m currently learning **Advanced flutter topics**
 
 - 📫 How to reach me **youssef91919ahmed@gmail.com**
